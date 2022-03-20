@@ -1,0 +1,6 @@
+---
+- name: Enumerate Inventory
+- hosts: all
+- tasks:
+  - name: Enumerate Inventory
+    ping:
